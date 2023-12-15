@@ -1,0 +1,3 @@
+[orange.widgets]
+widget1 = orangedemo
+widget2 = orangedemo.converter_demo
